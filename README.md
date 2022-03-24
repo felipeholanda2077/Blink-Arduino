@@ -19,7 +19,7 @@
 
   #### Ferramentas
 
-  - [**Aduino IDE**]
+  - [**Aduino IDE**](https://www.arduino.cc/)
  
 <br>
 
