@@ -10,3 +10,17 @@
 <br>
 <h1 align="center">Sobre o Projeto</h1>
 <h3 align="center">Blink-Arduino</h1>
+
+ ### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **C++**
+
+  #### Ferramentas
+
+  - [**Aduino IDE**]
+ 
+<br>
+
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
