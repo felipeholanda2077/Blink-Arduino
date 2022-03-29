@@ -9,6 +9,7 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 <h1 align="center">Sobre o Projeto</h1>
 <h3 align="center">Blink-Arduino</h1>
+<p>Progama de utilização em arduino para fazer blink em leds com utilização de uma pront Aduino</p>
 
  ### Tecnologias 🚀
 
